@@ -26,7 +26,7 @@ If run through terminal download Apache Spark and follow the documentation, http
 
 Running the program
 
-The programmed is run through PyCharm
+The program is run through PyCharm
 
 
 
